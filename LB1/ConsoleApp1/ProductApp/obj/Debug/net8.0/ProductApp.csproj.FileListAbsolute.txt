@@ -1,0 +1,14 @@
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/bin/Debug/net8.0/ProductApp
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/bin/Debug/net8.0/ProductApp.deps.json
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/bin/Debug/net8.0/ProductApp.runtimeconfig.json
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/bin/Debug/net8.0/ProductApp.dll
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/bin/Debug/net8.0/ProductApp.pdb
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/obj/Debug/net8.0/ProductApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/obj/Debug/net8.0/ProductApp.AssemblyInfoInputs.cache
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/obj/Debug/net8.0/ProductApp.AssemblyInfo.cs
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/obj/Debug/net8.0/ProductApp.csproj.CoreCompileInputs.cache
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/obj/Debug/net8.0/ProductApp.dll
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/obj/Debug/net8.0/refint/ProductApp.dll
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/obj/Debug/net8.0/ProductApp.pdb
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/obj/Debug/net8.0/ProductApp.genruntimeconfig.cache
+/Users/uliakorneeva/Desktop/LB1/ConsoleApp1/ProductApp/obj/Debug/net8.0/ref/ProductApp.dll
