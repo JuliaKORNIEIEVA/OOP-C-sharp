@@ -1,0 +1,14 @@
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/bin/Debug/net8.0/UserManagementApp
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/bin/Debug/net8.0/UserManagementApp.deps.json
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/bin/Debug/net8.0/UserManagementApp.runtimeconfig.json
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/bin/Debug/net8.0/UserManagementApp.dll
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/bin/Debug/net8.0/UserManagementApp.pdb
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/obj/Debug/net8.0/UserManagementApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/obj/Debug/net8.0/UserManagementApp.AssemblyInfoInputs.cache
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/obj/Debug/net8.0/UserManagementApp.AssemblyInfo.cs
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/obj/Debug/net8.0/UserManagementApp.csproj.CoreCompileInputs.cache
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/obj/Debug/net8.0/UserManagementApp.dll
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/obj/Debug/net8.0/refint/UserManagementApp.dll
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/obj/Debug/net8.0/UserManagementApp.pdb
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/obj/Debug/net8.0/UserManagementApp.genruntimeconfig.cache
+/Users/uliakorneeva/Desktop/LB2/UserManagementApp/UserManagementApp/obj/Debug/net8.0/ref/UserManagementApp.dll
